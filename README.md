@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NEU-Apollo&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NEU-Apollo&theme=github-compact&count_private=true" />
 </p>
